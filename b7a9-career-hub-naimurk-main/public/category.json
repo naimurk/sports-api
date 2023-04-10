@@ -1,0 +1,22 @@
+[
+    {   "id" : 1 ,
+        "img": "eng.png",
+        "jobCategoryTitle": "Software Development",
+        "jobAvailable": 1200
+    },
+    {   "id" : 2 ,
+        "img": "finance.png",
+        "jobCategoryTitle": "Data Science",
+        "jobAvailable": 100
+    },
+    {   "id" : 3 ,
+        "img": "light.png",
+        "jobCategoryTitle": "UI/UX Design",
+        "jobAvailable": 500
+    },
+    {   "id" : 4 ,
+        "img": "marketing.png",
+        "jobCategoryTitle": "Marketing",
+        "jobAvailable": 800
+    }
+]
