@@ -7,12 +7,26 @@ import { faCoffee, faDollarSign,faBriefcase,faPhone,faEnvelope,faLocation } from
 
 
 
-const FeatureDetails = () => {
-    // const [loader, setloader] = useState([])
-     const data = useLoaderData([])
-     const {id,addtoCart} = useContext(Contex) 
+const FeatureDetails =  () => {
+
+    const [mainData, setMainData] = useState(null);
+    
+    const {id,addtoCart} = useContext(Contex) 
+     useEffect(() => {
+        const fetchData = async () => {
+          const response = await fetch('/feature.json');
+          const data = await response.json();
+          setMainData(data);
+        };
+        fetchData();
+      }, []);
+    
+      if (!mainData) {
+        return <div>Loading...</div>;
+      }
+    
      
-    const loader = data.find(singleFe => singleFe.id == id)
+     const loader = mainData.find(singleFe => singleFe.id == id)
     
     
     return (

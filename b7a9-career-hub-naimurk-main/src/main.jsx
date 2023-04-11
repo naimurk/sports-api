@@ -11,6 +11,8 @@ import Home from './Component/Home/Home';
 import FeatureDetails from './Component/feature/FeatureDetails';
 import Appliedjob from './Component/Applied_job/Appliedjob';
 import { loaderdata } from './utilities';
+import Assignment from './Component/AssignmentChart/Assignment';
+import { featureLoader } from './featureLoader';
 
 const router = createBrowserRouter([
   {
@@ -24,13 +26,19 @@ const router = createBrowserRouter([
      {
       path : "feature/:featureId",
       element: <FeatureDetails></FeatureDetails>,
-      loader: ()=> fetch('/public/feature.json')
+      // loader: ()=> fetch('/feature.json')
+      // loader: featureLoader
      },
      {
       path : 'applied_job',
       element: <Appliedjob></Appliedjob>,
       loader : loaderdata
       
+     },
+     {
+      path: 'statics',
+      element: <Assignment></Assignment>,
+      loader : ()=> fetch('/public/assignment.json')
      }
 
     ]

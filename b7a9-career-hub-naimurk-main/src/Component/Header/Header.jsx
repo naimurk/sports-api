@@ -38,7 +38,7 @@ const Header = () => {
                         </div>
                         <ul className={`md:flex gap-x-8 absolute duration-500 p-3 md:static ${isOpen ? 'top-16 right-3' : '-top-36 right-3'}`}>
                             <Link to='/'><li>Home</li></Link>
-                            <Link><li>Statistics</li></Link>
+                            <Link to="/statics"><li>Statistics</li></Link>
                             <Link to="/applied_job" ><li>Applied job</li></Link>
                             <Link><li>Blog</li></Link>
                         </ul>
