@@ -12,12 +12,7 @@ const Feature = () => {
         .then(data => setfeature(data))
     },[])
     
-    const filterdata = () => {
-
-        
-         setfeature(Feature.slice(0,3))
-    }
-     
+  
    
     // console.log(Feature);
     // const sayem = useContext(Contex)
@@ -36,7 +31,7 @@ const Feature = () => {
                     ></SingleFeature>)
                  }
             </div>
-            <button onClick={filterdata()}  className='px-12 py-5 text-white bg-black mx-auto' >see all</button>
+            <button   className='px-12 py-5 text-white bg-black mx-auto' >see all</button>
         </div>
     );
 };
