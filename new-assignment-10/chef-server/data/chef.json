@@ -1,0 +1,269 @@
+[
+    {   "id" : 9845213675,
+        "chefPicture": "https://i.ibb.co/zhXMzJF/chef-Abdul.jpg",
+        "chefName": "kuddus",
+        "yearsOfExperience": 12,
+        "numberOfRecipes": [
+            {
+                "recipeName": "Bengali Biriyani",
+                "ingredients": [
+                    "rice",
+                    "meat",
+                    "yogurt",
+                    "spices",
+                    "potatoes"
+                ],
+                "cookingMethod": "Cook rice and meat separately, layer them with yogurt and spices, garnish with potatoes, steam until cooked.",
+                "rating": 4.7
+            },
+            {
+                "recipeName": "Shorshe Ilish",
+                "ingredients": [
+                    "hilsa fish",
+                    "mustard paste",
+                    "green chilies",
+                    "turmeric",
+                    "mustard oil"
+                ],
+                "cookingMethod": "Marinate fish with mustard paste and spices, steam with green chilies and mustard oil.",
+                "rating": 4.9
+            },
+            {
+                "recipeName": "Pitha",
+                "ingredients": [
+                    "rice flour",
+                    "jaggery",
+                    "coconut",
+                    "cardamom",
+                    "oil"
+                ],
+                "cookingMethod": "Make a dough with rice flour, jaggery, and coconut. Shape into small cakes, steam or fry until cooked.",
+                "rating": 4.5
+            }
+        ],
+        "likes": 3000,
+        "viewRecipesButton": "https://example.com/recipes/chef1"
+    },
+    {    "id" : 9845614675,
+        "chefPicture": "https://i.ibb.co/r3GRNQm/Rahima.jpg",
+        "chefName": "Kamrun Nahar",
+        "yearsOfExperience": 15,
+        "numberOfRecipes": [
+            {
+                "recipeName": "Chingri Malai Curry",
+                "ingredients": [
+                    "prawns",
+                    "coconut milk",
+                    "onion",
+                    "ginger",
+                    "spices"
+                ],
+                "cookingMethod": "Sauté onion and ginger, add spices and prawns, cook in coconut milk until thickened.",
+                "rating": 4.8
+            },
+            {
+                "recipeName": "Fuchka",
+                "ingredients": [
+                    "semolina",
+                    "black chickpeas",
+                    "potato",
+                    "tamarind chutney",
+                    "spices"
+                ],
+                "cookingMethod": "Make dough with semolina, shape into small discs, deep-fry until crispy. Stuff with a mixture of black chickpeas, potato, and spices. Serve with tamarind chutney.",
+                "rating": 4.6
+            },
+            {
+                "recipeName": "Mishti Doi",
+                "ingredients": [
+                    "milk",
+                    "sugar",
+                    "yogurt culture"
+                ],
+                "cookingMethod": "Boil milk with sugar, cool to lukewarm, add yogurt culture, and let it ferment overnight. Serve chilled.",
+                "rating": 4.7
+            }
+        ],
+        "likes": 2500,
+        "viewRecipesButton": "https://example.com/recipes/chef2"
+    },
+    {    "id" : 9845213605,
+        "chefPicture": "https://i.ibb.co/Dtq8RM1/chef-Hasan.jpg",
+        "chefName": "Abdul Hassan",
+        "yearsOfExperience": 20,
+        "numberOfRecipes": [
+            {
+                "recipeName": "Kacchi Biryani",
+                "ingredients": [
+                    "basmati rice",
+                    "marinated meat",
+                    "yogurt",
+                    "spices",
+                    "saffron"
+                ],
+                "cookingMethod": "Layer partially cooked rice and marinated meat, cook in a sealed pot with yogurt, spices, and saffron.",
+                "rating": 4.6
+            },
+            {
+                "recipeName": "Firni",
+                "ingredients": [
+                    "rice flour",
+                    "milk",
+                    "sugar",
+                    "cardamom",
+                    "rose water"
+                ],
+                "cookingMethod": "Cook rice flour in milk, add sugar, cardamom, and rose water. Let it cool and set to form a pudding.",
+                "rating": 4.4
+            },
+            {
+                "recipeName": "Shami Kebab",
+                "ingredients": [
+                    "minced meat",
+                    "chickpeas",
+                    "onion",
+                    "ginger",
+                    "spices"
+                ],
+                "cookingMethod": "Boil meat and chickpeas, grind with onion, ginger, and spices. Shape into patties and shallow fry.",
+                "rating": 4.7
+            }
+        ],
+        "likes": 4000,
+        "viewRecipesButton": "https://example.com/recipes/chef3"
+    },
+    {   "id" : 9015213675,
+        "chefPicture": "https://i.ibb.co/z8BVbzH/nazma.jpg",
+        "chefName": "Nazma Akter",
+        "yearsOfExperience": 10,
+        "numberOfRecipes": [
+            {
+                "recipeName": "Bhuna Khichuri",
+                "ingredients": [
+                    "rice",
+                    "lentils",
+                    "ghee",
+                    "onion",
+                    "spices"
+                ],
+                "cookingMethod": "Fry lentils and rice in ghee, add onion and spices, cook until the rice and lentils are well-cooked.",
+                "rating": 4.5
+            },
+            {
+                "recipeName": "Rasmalai",
+                "ingredients": [
+                    "milk",
+                    "sugar",
+                    "cardamom",
+                    "pistachios",
+                    "saffron"
+                ],
+                "cookingMethod": "Boil milk, curdle it, strain, and knead the chenna. Shape into balls, cook in sugar syrup, and serve with flavored milk.",
+                "rating": 4.8
+            },
+            {
+                "recipeName": "Machher Jhol",
+                "ingredients": [
+                    "fish",
+                    "onion",
+                    "tomato",
+                    "ginger",
+                    "spices"
+                ],
+                "cookingMethod": "Fry fish, sauté onion, tomato, and ginger, add spices, and simmer with water until fish is cooked.",
+                "rating": 4.6
+            }
+        ],
+        "likes": 3500,
+        "viewRecipesButton": "https://example.com/recipes/chef4"
+    },
+    {   "id" : 9845213170,
+        "chefPicture": "https://i.ibb.co/Wkj6zyq/cokina.jpg",
+        "chefName": "Sultana Akhter",
+        "yearsOfExperience": 18,
+        "numberOfRecipes": [
+            {
+                "recipeName": "Rui Macher Kalia",
+                "ingredients": [
+                    "rohu fish",
+                    "onion",
+                    "ginger",
+                    "garlic",
+                    "spices"
+                ],
+                "cookingMethod": "Sauté onion, ginger, and garlic, add spices and fish, cook in a thick gravy until fish is tender.",
+                "rating": 4.9
+            },
+            {
+                "recipeName": "Luchi",
+                "ingredients": [
+                    "wheat flour",
+                    "ghee",
+                    "salt",
+                    "water"
+                ],
+                "cookingMethod": "Knead dough with wheat flour, ghee, salt, and water. Roll into small discs and deep-fry until puffed and golden.",
+                "rating": 4.7
+            },
+            {
+                "recipeName": "Nolen Gurer Payesh",
+                "ingredients": [
+                    "gobindo bhog rice",
+                    "milk",
+                    "date palm jaggery",
+                    "cardamom",
+                    "nuts"
+                ],
+                "cookingMethod": "Boil rice in milk, add date palm jaggery, cardamom, and nuts. Cook until rice is soft and pudding thickens.",
+                "rating": 4.8
+            }
+        ],
+        "likes": 2800,
+        "viewRecipesButton": "https://example.com/recipes/chef5"
+    },
+    {   "id" : 9845217775,
+        "chefPicture": "https://i.ibb.co/3mynXjw/kuddus-bai.jpg",
+        "chefName": "Abdul Rahman",
+        "yearsOfExperience": 10,
+        "numberOfRecipes": [
+            {
+                "recipeName": "Kacchi Biryani",
+                "ingredients": [
+                    "basmati rice",
+                    "marinated meat",
+                    "yogurt",
+                    "spices",
+                    "saffron"
+                ],
+                "cookingMethod": "Layer marinated meat and partially cooked rice, seal with dough, and cook on low heat until meat and rice are fully cooked and aromatic.",
+                "rating": 4.6
+            },
+            {
+                "recipeName": "Mishti Pulao",
+                "ingredients": [
+                    "fragrant rice",
+                    "sugar",
+                    "ghee",
+                    "cashews",
+                    "raisins"
+                ],
+                "cookingMethod": "Fry cashews and raisins in ghee, add rice, sugar, and water. Cook until rice is tender and fluffy.",
+                "rating": 4.7
+            },
+            {
+                "recipeName": "Chapli Kabab",
+                "ingredients": [
+                    "minced meat",
+                    "onion",
+                    "ginger",
+                    "spices",
+                    "egg"
+                ],
+                "cookingMethod": "Mix minced meat with onion, ginger, spices, and egg. Shape into patties and shallow fry until golden and cooked through.",
+                "rating": 4.5
+            }
+        ],
+        "likes": 2200,
+        "viewRecipesButton": "https://example.com/recipes/chef6"
+    }
+]
